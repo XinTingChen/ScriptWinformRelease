@@ -1,5 +1,7 @@
 *****************此程式只提供給認識的熟人*************************
 
+煙雨江湖自動精煉記錄表
+
 1.解壓縮後使用系統管理員開啟ScriptWinFrom.exe
 ![image](https://github.com/user-attachments/assets/89a7f4cc-c1f2-4d9b-9e01-8352affa0dea)
   (1).先將ADB路徑更改為自己模擬器的adb.exe路徑
