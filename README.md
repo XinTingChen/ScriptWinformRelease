@@ -35,8 +35,18 @@
 
 
 
-7.按下匯出資料即可產生Excel檔 (*注意: 有重複命名檔案時可覆蓋，但該檔案不能為開啟狀態，否則會發生錯誤)
+7.開始運行時會檢測該詞條是否精煉過會(精)，如果有精煉卻沒有顯示，請對她連點兩下可以切換(這關係到後面的泥巴材料計算)
+![image](https://github.com/user-attachments/assets/9fe56679-bc68-430f-ab4b-8db2c85b01a6)
+
+
+
+8.對清單想替換的詞條連點兩下會變成黃底，上方會計算泥數與材料
+![image](https://github.com/user-attachments/assets/9967aec8-2f0c-47f4-8e45-ebdff1adcf0b)
+
+
+9.按下匯出資料即可產生Excel檔 (*注意: 有重複命名檔案時可覆蓋，但該檔案不能為開啟狀態，否則會發生錯誤)
 ![image](https://github.com/user-attachments/assets/32e8a24f-0b9c-49da-8b3e-8274424361dc)
+
 
 
 
