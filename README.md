@@ -22,13 +22,10 @@
 
 ![image](https://github.com/user-attachments/assets/4852237e-8985-421c-9e09-11c6fab6e6a8)
 
-模擬器解析度調整至1280*720 (不確定必要性)
+模擬器解析度調整至1280*720 
 
 ![image](https://github.com/user-attachments/assets/2205c93c-7ad3-4aa4-8211-552872b02e3e)
 
-電腦解析度調整至1920*1080 (不確定必要性)
-
-![image](https://github.com/user-attachments/assets/26a5ef25-43a6-4ed2-9e86-cc441f64c2cd)
 
 
 
