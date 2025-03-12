@@ -2,6 +2,8 @@
 
 煙雨江湖自動精煉記錄表
 
+以下說明圖片並非最新版本，但與實際相差無幾
+
 1.解壓縮後使用系統管理員開啟ScriptWinFrom.exe
 
 ![image](https://github.com/user-attachments/assets/89a7f4cc-c1f2-4d9b-9e01-8352affa0dea)
