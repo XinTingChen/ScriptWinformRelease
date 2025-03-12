@@ -53,23 +53,34 @@
 ![image](https://github.com/user-attachments/assets/9fe56679-bc68-430f-ab4b-8db2c85b01a6)
 
 
+當出現不合理的數值有可能是圖轉文時翻譯錯誤，通常是數值前或後多個1，可以點擊該行反白後按右鍵修改數據
 
-8.對清單想替換的詞條連點兩下會變成黃底，上方會計算泥數與材料
+![image](https://github.com/user-attachments/assets/094a3aed-3fbc-4e5f-8725-2ecca591b869)
 
-![image](https://github.com/user-attachments/assets/9967aec8-2f0c-47f4-8e45-ebdff1adcf0b)
+
+8.對清單想替換的詞條連點兩下會變成黃底，上方會計算泥數與材料，並手動輸入地區附加、附加、備註
+
+![image](https://github.com/user-attachments/assets/2cc8705e-a398-4750-8234-445e755b151e)
+
 
 
 9.按下匯出資料即可產生Excel檔 (*注意: 有重複命名檔案時可新增至分頁，但該檔案不能為開啟狀態，否則會發生錯誤)
 
-![image](https://github.com/user-attachments/assets/02a80f32-cb36-4652-a138-ae87249acf9d)
+![image](https://github.com/user-attachments/assets/f1d3ee88-4c03-4216-a552-764118e55708)
 
-![image](https://github.com/user-attachments/assets/ab3ed27f-19b9-469a-b4b1-a7ae23e841f3)
 
 
 
 10.按下匯入資料即可將Excel資料再拉回程式做材料計算，如Excel為多分頁可以自選
 
-![image](https://github.com/user-attachments/assets/718a569c-1cd7-41f4-90bb-f6516e6e0569)
+![image](https://github.com/user-attachments/assets/20dcfd98-d2e7-4fd7-bd15-1b64e1c258aa)
+
+
+
+
+11.當Excel有多個分頁時想整理成同一頁方便比較裝備的優先順序可以點選合併匯出，選擇要合併的Excel，再選擇要匯出的位置
+
+![image](https://github.com/user-attachments/assets/72350922-662f-4ebc-8b48-63e97c6c2a0d)
 
 
 *****************此程式只提供給認識的熟人*************************
