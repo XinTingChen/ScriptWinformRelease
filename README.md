@@ -29,6 +29,14 @@
 ![image](https://github.com/user-attachments/assets/2205c93c-7ad3-4aa4-8211-552872b02e3e)
 
 
+如果使用v1.0.9以上，模擬器請到設置 > 系統 > 語言與輸入法 > 語言 > 添加簡體中文(中國)，並拉到最上方
+
+基於圖轉文的繁體中文模型實在是太拉基，故在v1.0.9版本後，轉為簡體中文模型
+
+![image](https://github.com/user-attachments/assets/cf61f7e0-6814-42fc-9a94-21b16e02e8b6)
+
+
+
 
 
 4.回到程式點選ADB檢測，下方出現ADB連結成功，則會再多顯示開始運行、匯出資料兩個按鈕
@@ -83,6 +91,12 @@
 11.當Excel有多個分頁時想整理成同一頁方便比較裝備的優先順序可以點選合併匯出，選擇要合併的Excel，再選擇要匯出的位置
 
 ![image](https://github.com/user-attachments/assets/72350922-662f-4ebc-8b48-63e97c6c2a0d)
+
+
+
+12. 匯入已經選好詞條的excel，按下"精煉裝備"會照著你選的行數去精煉
+
+![image](https://github.com/user-attachments/assets/d908ba84-40fd-4765-ac02-e37e89aa39e5)
 
 
 *****************此程式只提供給認識的熟人*************************
